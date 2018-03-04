@@ -1,0 +1,4 @@
+dependencies {
+  compile project(':customer')
+  compile project(':item')
+}
